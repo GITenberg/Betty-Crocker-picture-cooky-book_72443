@@ -1,0 +1,34 @@
+_repo: Betty-Crocker-picture-cooky-book_72443
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Crocker, Betty
+    gutenberg_agent_id: '51463'
+    url: http://www.gutenberg.org/2009/agents/51463
+    wikipedia: https://en.wikipedia.org/wiki/Betty_Crocker
+  - agent_name: General Mills, Inc.
+    gutenberg_agent_id: '56684'
+    url: http://www.gutenberg.org/2009/agents/56684
+description: ''
+gutenberg_issued: '2023-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72443'
+language: en
+pgterms:marc905: 20200516191914anonymous
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Aaron Adrignola, A. Marshall, Lisa Corcoran and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMinneapolis :$bGeneral Mills, $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cookbooks'
+- !lcsh 'Baking'
+- !lcsh 'Cookies'
+- !lcc 'TX'
+- GITenberg
+title: Betty Crocker picture cooky book
+url: http://www.gutenberg.org/ebooks/72443
