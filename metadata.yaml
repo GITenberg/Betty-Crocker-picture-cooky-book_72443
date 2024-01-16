@@ -1,5 +1,8 @@
 _repo: Betty-Crocker-picture-cooky-book_72443
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72443-h/images/back_cover.jpg
 creator:
   authors:
   - agent_name: Crocker, Betty
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '56684'
     url: http://www.gutenberg.org/2009/agents/56684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72443#Betty-Crocker-picture-cooky-book
 gutenberg_issued: '2023-12-17'
 gutenberg_type: Text
 identifiers:
